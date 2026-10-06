@@ -22,8 +22,8 @@ Understand Swift programming basics used in iOS development.
 Design a simple user interface.
 
 Run and test the application using the iOS Simulator.
----
 
+---
 
 ## 📄 Practical Document (PDF)
 👉 **[View Practical-8 PDF (`24012011117_OM_Practical-8_MAD.pdf`)](./24012011117_OM_Practical-8_MAD.pdf)**
