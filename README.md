@@ -11,7 +11,7 @@ This practical covers:
 3. Running the iOS application in the Xcode Simulator and using live SwiftUI Previews (`PreviewProvider`).
 
 ---
-🎯 Objectives
+## 🎯 Objectives
 
 Understand the basic structure of an iOS application.
 
